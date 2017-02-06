@@ -4,5 +4,9 @@
   "version": "0.1",
   "paths": [".", "./src"],
   "entrypoint": "./src/oauth",
-  "dependencies": {}
+  "dependencies": {
+      "http": {
+          "url": "https://github.com/justinnoah/mt-http.git"
+      }
+  }
 }
