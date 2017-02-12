@@ -7,6 +7,9 @@
   "dependencies": {
       "http": {
           "url": "https://github.com/justinnoah/mt-http.git"
+      },
+      "url": {
+        "url": "https://github.com/justinnoah/url-mt.git"
       }
   }
 }
